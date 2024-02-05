@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Lanang Purbhawa</h1>
 <h3 align="center">I’m currently studying at Udayana University as a 4st semester Computer Science student. I have some interest in Backend and Data.</h3>
-<img align="right" alt="coding" width="400" src="https://i.gifer.com/3odR.gif"></img>
+<p align="left"></p>
+<img align="right"  alt="coding" width="400" src="https://img.freepik.com/free-psd/3d-nft-icon-developer-male-illustration_629802-6.jpg?w=740&t=st=1707153049~exp=1707153649~hmac=338064205785269ff8e609e1168c6c78f9e097a9fb61164d1c2b49e150dd4e75">
 
 - 📫 How to reach me **baguslanangpurbhawa@gmail.com**
 
