@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Lanang Purbhawa</h1>
 <h3 align="center">I’m currently studying at Udayana University as a 4st semester Computer Science student. I have some interest in Backend and Data.</h3>
+<img align="right" alt="coding" width="400" src="https://i.gifer.com/3odR.gif"></img>
 
 - 📫 How to reach me **baguslanangpurbhawa@gmail.com**
 
