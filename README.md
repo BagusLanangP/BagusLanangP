@@ -1,14 +1,92 @@
-<h1 align="center">Hi 👋, I'm Lanang Purbhawa</h1>
-<h3 align="center">I’m currently studying at Udayana University as a 4st semester Computer Science student. I have some interest in Backend and Data.</h3>
-<p align="left"></p>
-<img align="right"  alt="coding" width="400" src="https://img.freepik.com/free-psd/3d-nft-icon-developer-male-illustration_629802-6.jpg?w=740&t=st=1707153049~exp=1707153649~hmac=338064205785269ff8e609e1168c6c78f9e097a9fb61164d1c2b49e150dd4e75">
+# 👋 Hi there, I'm I Gusti Ngurah Bagus Lanang Purbhawa!
+### **Recent Informatics Graduate | Backend Engineer & Data Analytics Specialist**
 
-- 📫 How to reach me **baguslanangpurbhawa@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
+  <a href="https://linkedin.com/in/baguslanangpurbhawa" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:baguslanangpurbhawa@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+---
 
+## 🚀 About Me
+A driven **Informatics graduate from Udayana University** (GPA 3.88/4.00, Cumlaude) specializing in robust backend architectures, spatial data analytics, and scalable digital products. I bridge the gap between technical engineering and data-driven user insights, with hands-on industry experience managing global analytics and executing public-sector system migrations. 
+
+* 🎓 **Education:** Bachelor of Informatics, Udayana University (Graduation: July 2026)
+* 💼 **Current Focus:** Building impactful, user-centric web applications and high-income remote-ready digital architectures.
+* 🌱 **Mindset:** Continuous learning, adaptable, agile collaboration, and a heavy interest in AI integrations.
+
+---
+
+## 🛠️ Tech Stack & Toolbox
+
+<table>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=laravel" width="48" height="48" alt="Laravel" />
+      <br />Laravel
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" />
+      <br />Python
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript" />
+      <br />JavaScript
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL" />
+      <br />MySQL
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=aws" width="48" height="48" alt="AWS" />
+      <br />AWS Cloud
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Tailwind" />
+      <br />Tailwind CSS
+    </td>
+  </tr>
+</table>
+
+* **Data & Product Analytics:** Advanced Data Modeling, Spatial Data Analysis (QGIS/LULC Modeling), Google Analytics 4 (GA4), Technical SEO.
+* **Core Practices:** RESTful APIs, System Migration, Responsive Web Design, Agile Teamwork.
+
+---
+
+## 🏆 Professional Highlights & Experience
+
+* **CV. Wonderworxs Digital Marketing** | *Web, SEO & GA4 Specialist (Part Time)*
+  * Managing technical web optimization, SEO strategies, and advanced GA4 event tagging for a diverse portfolio of **international clients**.
+* **PT. Djingga Media Teknokreatif** | *Web Developer (Internship)*
+  * Spearheaded the system architecture migration and frontend redesign of the **Denpasar Municipal Government’s** village administration platforms.
+
+---
+
+## 💡 Key Featured Projects
+
+### 🌟 [PlantPal Chatbot](https://github.com/GANTI_DENGAN_USERNAME_KAMU/plantpal)
+* **Award:** *Best Capstone Project Winner (1st Place) | MSIB RevoU*
+* **What it is:** An AI-powered assistant engineered on AWS infrastructure utilizing the LLaMA API and Streamlit to generate highly accurate, location-based plant diagnostics and geographical crop recommendations.
+
+### 🗺️ [LULC Badung Webmap](https://github.com/GANTI_DENGAN_USERNAME_KAMU/lulc-badung)
+* **What it is:** An independent spatial analytics system built for predictive modeling of Land Use and Land Cover changes using Machine Learning algorithms (Random Forest & CA-Markov) to visualize regional sustainability patterns.
+
+### 🌾 [Harvest Hub](https://github.com/GANTI_DENGAN_USERNAME_KAMU/harvest-hub)
+* **What it is:** A comprehensive, multi-role agricultural e-commerce platform built with Laravel and MySQL connecting local farmers, land managers, and gardening service providers.
+
+---
+
+## 📊 GitHub Stats
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=GANTI_DENGAN_USERNAME_KAMU&show_icons=true&theme=nord&count_private=true" alt="Lanang's GitHub Stats" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GANTI_DENGAN_USERNAME_KAMU&layout=compact&theme=nord" alt="Top Languages" height="180px" />
+</p>
+
+---
+
+## 📫 Let's Connect & Collaborate!
+* 💼 **LinkedIn:** [linkedin.com/in/baguslanangpurbhawa](https://linkedin.com/in/baguslanangpurbhawa)
+* 📧 **Email:** [baguslanangpurbhawa@gmail.com](mailto:baguslanangpurbhawa@gmail.com)
+
+*"Driven to tackle complex backend engineering and spatial problems to build scalable, impactful global solutions."*
