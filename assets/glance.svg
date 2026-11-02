@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="150" viewBox="0 0 1000 150" role="img" aria-label="Highlights: GPA 3.88 Cum Laude, graduating 2026, 1st place capstone, two industry roles">
+<defs></defs>
+<style>text{font-family:-apple-system,BlinkMacSystemFont,'SF Pro Display','SF Pro Text','Inter','Segoe UI',Roboto,Helvetica,Arial,sans-serif;}</style>
+
+        <rect x="0.5" y="0.5" width="232" height="149" rx="24" fill="#111113" stroke="#2c2c2e"/>
+        <circle cx="30.0" cy="34" r="5" fill="#0a84ff"/>
+        <text x="24.0" y="92" font-size="46" font-weight="700" letter-spacing="-1.2" fill="#f5f5f7">3.88</text>
+        <text x="24.0" y="118" font-size="14" font-weight="600" fill="#f5f5f7">GPA, Cum Laude</text>
+        <text x="24.0" y="136" font-size="13" fill="#86868b">Udayana University</text>
+        
+        <rect x="256.17" y="0.5" width="232" height="149" rx="24" fill="#111113" stroke="#2c2c2e"/>
+        <circle cx="285.67" cy="34" r="5" fill="#30d158"/>
+        <text x="279.67" y="92" font-size="46" font-weight="700" letter-spacing="-1.2" fill="#f5f5f7">2026</text>
+        <text x="279.67" y="118" font-size="14" font-weight="600" fill="#f5f5f7">Informatics graduate</text>
+        <text x="279.67" y="136" font-size="13" fill="#86868b">Class of July 2026</text>
+        
+        <rect x="511.84000000000003" y="0.5" width="232" height="149" rx="24" fill="#111113" stroke="#2c2c2e"/>
+        <circle cx="541.34" cy="34" r="5" fill="#ff9f0a"/>
+        <text x="535.34" y="92" font-size="46" font-weight="700" letter-spacing="-1.2" fill="#f5f5f7">1st</text>
+        <text x="535.34" y="118" font-size="14" font-weight="600" fill="#f5f5f7">Best Capstone Project</text>
+        <text x="535.34" y="136" font-size="13" fill="#86868b">MSIB RevoU</text>
+        
+        <rect x="767.51" y="0.5" width="232" height="149" rx="24" fill="#111113" stroke="#2c2c2e"/>
+        <circle cx="797.01" cy="34" r="5" fill="#bf5af2"/>
+        <text x="791.01" y="92" font-size="46" font-weight="700" letter-spacing="-1.2" fill="#f5f5f7">2</text>
+        <text x="791.01" y="118" font-size="14" font-weight="600" fill="#f5f5f7">Industry roles</text>
+        <text x="791.01" y="136" font-size="13" fill="#86868b">Marketing and public sector</text>
+        
+</svg>
